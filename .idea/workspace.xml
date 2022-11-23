@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2109ac56-3c40-4689-831d-b65992a730ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week11Program.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorts.java" afterDir="false" />
+    <list default="true" id="2109ac56-3c40-4689-831d-b65992a730ff" name="Changes" comment="bubble and insertion sort working and tested">
+      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorts.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,8 +59,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669062725719</updated>
-      <workItem from="1669062726975" duration="11761000" />
+      <workItem from="1669062726975" duration="22616000" />
     </task>
+    <task id="LOCAL-00001" summary="bubble and insertion sort working and tested">
+      <created>1669154780352</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669154780352</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,13 +85,17 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="bubble and insertion sort working and tested" />
+    <option name="LAST_COMMIT_MESSAGE" value="bubble and insertion sort working and tested" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SortTest.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="2" />
+          <url>file://$PROJECT_DIR$/src/test.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
